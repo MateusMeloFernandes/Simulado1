@@ -1,0 +1,53 @@
+
+.parte1{
+    padding: 30px;
+    background-color:darkblue;
+    text-align: center;
+}
+
+img{
+    width: 1000px;
+    height: 400px;
+    
+    display: flex;
+    align-self: center;
+    
+
+}
+
+.botao{
+    font-size: 35px;
+    margin: 100px;
+    width: 699px;
+    border-radius: 1px;
+    border-color: rgb(122, 120, 125);
+    background-color: rgba(75, 93, 224, 0.63);
+    position: relative;
+    
+}
+
+
+
+
+main{
+    align-items: center;
+    display: flex;
+    
+    
+}
+.video{
+    width: 190%;
+    
+}
+
+.frase{
+    width: 90%;
+    font-size:larger;
+    font-weight: bolder;
+}
+footer{
+    padding: 10px;
+    text-align: center;
+    background-color: blue;
+    margin: 15px;
+}
